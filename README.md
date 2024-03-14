@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @oaespinozap
-- 👀 I’m interested in ... programacion
-- 🌱 I’m currently learning ... java html 
-- 💞️ I’m looking to collaborate on ... en eso estoy 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 👋 Hello, I'm Hello, I'm @oaespinozap 👋
+I am very interested in programming and I am currently learning Java and HTML. I am looking to collaborate on projects related to these topics. If you want to contact me, you can do so through: omarespinozaa@gmail.com.
+
+I define myself as an enthusiastic person committed to continuous learning. I hope to connect with others who share my interests!
+
+Also, as a curious fact, I am an international chef.
 
 <!---
 oaespinozap/oaespinozap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
